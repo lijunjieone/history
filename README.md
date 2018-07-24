@@ -4,3 +4,5 @@
 
 # 目录
 [git](git.md)
+[python](python.md)
+[常用](common.md)
